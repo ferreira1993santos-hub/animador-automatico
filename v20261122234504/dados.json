@@ -1,0 +1,20 @@
+{
+ "id": "v20261122234504",
+ "tema": "Como funciona a internet via satélite",
+ "estilo": "explica3d",
+ "titulo": "Como Funciona a Internet via Satélite",
+ "legenda": "Entenda como o sinal da internet viaja até o espaço e volta para a sua casa em milissegundos! Essa tecnologia conecta até os lugares mais isolados do planeta. 🛰️ Você usaria essa internet no seu dia a dia? Deixe sua opinião nos comentários!\n\n#internet #satelite #tecnologia #curiosidades",
+ "falas": [
+  "Como a internet chega na sua casa vinda direto do espaço sem nenhum cabo conectado?",
+  "Tudo começa quando seu celular envia o pedido de acesso para o roteador dentro da sua sala.",
+  "O roteador repassa os dados para uma antena parabólica instalada bem no alto do seu telhado.",
+  "A antena transforma a informação em ondas rádio invisíveis e dispara direto para o espaço sideral.",
+  "A mil quilômetros de altura, um satélite em órbita captura essa onda e processa o sinal recebido.",
+  "Em milissegundos, o satélite retransmite essa mensagem para uma estação de solo conectada à fibra óptica.",
+  "A estação busca o site na rede global e devolve a resposta disparando de volta ao satélite.",
+  "O satélite reenvia os dados para a sua antena, completando uma viagem incrível de ida e volta.",
+  "Você usaria essa tecnologia de satélite no seu dia a dia? Responda aqui nos comentários!"
+ ],
+ "criado": "2026-11-23T00:12:02",
+ "status": "previa"
+}

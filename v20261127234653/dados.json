@@ -1,0 +1,20 @@
+{
+ "id": "v20261127234653",
+ "tema": "Seria possível criar uma bateria usando o calor do ambiente?",
+ "estilo": "explica3d",
+ "titulo": "Bateria que Funciona com o Calor do Ar",
+ "legenda": "Você sabia que a diferença de temperatura pode gerar eletricidade infinita? Esse é o efeito Seebeck, a tecnologia por trás dos geradores termoelétricos! 🔋 Conte nos comentários se você usaria um celular assim!\n#tecnologia #ciencia #inovacao #curiosidades",
+ "falas": [
+  "Sabia que dá para gerar energia elétrica usando só o calor do ar ao seu redor?",
+  "O ar ambiente guarda muita energia térmica que normalmente é jogada fora sem a gente perceber.",
+  "Para capturar esse calor, usamos uma placa especial chamada gerador termoelétrico com semicondutores.",
+  "Por dentro dela existem pequenas pilastras feitas de dois materiais semicondutores bem diferentes.",
+  "Quando o lado de fora esquenta e o outro permanece frio, acontece algo mágico.",
+  "O calor empurra os elétrons do lado quente direto para o lado frio.",
+  "Esse fluxo contínuo de elétrons cria uma corrente elétrica pronta para ser usada.",
+  "Essa eletricidade carrega uma bateria interna, acumulando energia sem precisar de nenhuma tomada!",
+  "Você usaria um celular que se carrega sozinho usando apenas o calor do seu corpo?"
+ ],
+ "criado": "2026-11-27T23:56:33",
+ "status": "previa"
+}
